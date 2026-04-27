@@ -1,6 +1,6 @@
 # Hi there, I'm Aryeh 👋
 
-### 🎓 Electrical & Computer Engineering Student | Ariel University
+### 🎓 Electrical Engineering Student | Ariel University
 I am a passionate Engineering student specializing in **Embedded Systems**, **Signal Processing**, and **Automotive Technology**. I thrive at the intersection of hardware and software, building solutions that bridge the gap between physical sensors and intelligent logic.
 
 ---
